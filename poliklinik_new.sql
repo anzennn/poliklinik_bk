@@ -100,11 +100,10 @@ CREATE TABLE `obat` (
 --
 
 INSERT INTO `obat` (`id`, `nama_obat`, `kemasan`, `harga`) VALUES
-(1, 'paramex', 'tablet', 7000),
-(2, 'panadol', 'sachet', 3000),
-(3, 'procold', 'tablet', 5000),
-(4, 'bodrex', 'botol', 12000),
-(9, 'Panadol', 'Saset', 7000);
+(1, 'paracetamol', 'botol', 10000),
+(2, 'migrain', 'sachet', 3000),
+(3, 'konidin', 'sachet', 5000),
+(4, 'kalpanax', 'sachet', 6000);
 
 -- --------------------------------------------------------
 
